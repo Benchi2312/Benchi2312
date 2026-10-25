@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Benchi2312">GitHub</a> ·
-  <a href="https://github.com/Benchi2312?tab=repositories">Mis proyectos</a>
+  <a href="https://github.com/Benchi2312?tab=repositories">Explora mis proyectos</a>
 </p>
 
 ## Sobre mí
@@ -15,11 +14,21 @@
 - Trabajo con **TypeScript, React, Angular, Java, Python y Supabase**.
 - Actualmente construyo **Mesora**, un sistema web para la gestión de restaurantes.
 
-## Proyecto destacado
+## Proyectos destacados
+
+### [ControlPack](https://github.com/Benchi2312/controlpack-frontend)
+
+Sistema de gestión de producción y empaque industrial, con interfaz en React y API REST en Flask.
+
+- [Frontend](https://github.com/Benchi2312/controlpack-frontend) · [Demo web](https://controlpack-frontend.vercel.app)
+- [Backend API](https://github.com/Benchi2312/controlpack-backend)
 
 ### [SmartParking](https://github.com/Benchi2312/SmartParking-Frontend)
 
-Sistema de gestión de estacionamientos con una interfaz en Angular y TypeScript, junto con un backend en Java.
+Sistema de estacionamientos con gestión de usuarios, vehículos, espacios y reservas.
+
+- [Frontend](https://github.com/Benchi2312/SmartParking-Frontend) · [Demo web](https://smart-parking-frontend-three.vercel.app)
+- [Backend API](https://github.com/Benchi2312/SmartParking-Backend)
 
 ## Tecnologías
 
