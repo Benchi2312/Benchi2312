@@ -1,46 +1,39 @@
-<h1 align="center">Hola, soy Benchi 👋</h1>
+# Hola, soy Benchi
 
-<p align="center">
-  Desarrollador de software enfocado en aplicaciones web y soluciones de extremo a extremo.
-</p>
+Estudiante de Ingeniería de Sistemas enfocado en desarrollo web, backend y soluciones con datos.
 
-<p align="center">
-  <a href="https://github.com/Benchi2312?tab=repositories">Explora mis proyectos</a>
-</p>
+## Tecnologías principales
 
-## Sobre mí
+React · TypeScript · Java · Spring Boot · Python · SQL · PostgreSQL · Supabase · Git · Docker
 
-- Desarrollo interfaces web, APIs y herramientas conectadas a bases de datos.
-- Trabajo con **TypeScript, React, Angular, Java, Python y Supabase**.
-- Actualmente construyo **Mesora**, un sistema web para la gestión de restaurantes.
+## Proyecto principal: Mesora
 
-## Proyectos destacados
+Mesora es una plataforma SaaS para restaurantes que conecta pedidos, mesas, Cocina, Barra, caja, reportes, auditoría e impresión de comandas en un solo flujo operativo.
 
-### [ControlPack](https://github.com/Benchi2312/controlpack-frontend)
+Construida con **React, TypeScript, Vite, Supabase, PostgreSQL, RLS y Vercel**.
 
-Sistema de gestión de producción y empaque industrial, con interfaz en React y API REST en Flask.
+**Funciones principales**
 
-- [Frontend](https://github.com/Benchi2312/controlpack-frontend) · [Demo web](https://controlpack-frontend.vercel.app)
-- [Backend API](https://github.com/Benchi2312/controlpack-backend)
+- Control de acceso por roles y aislamiento de datos por restaurante.
+- Gestión de pedidos, mesas y comandas.
+- Flujos de preparación para Cocina y Barra.
+- Caja, cobros, arqueo y cierre de turnos.
+- Reportes operativos y auditoría de acciones sensibles.
+- Soporte entre restaurantes.
+- Impresión manual y automática de comandas.
 
-### [SmartParking](https://github.com/Benchi2312/SmartParking-Frontend)
+**Enlaces**
 
-Sistema de estacionamientos con gestión de usuarios, vehículos, espacios y reservas.
+- [Repositorio de Mesora](https://github.com/Benchi2312/Mesora)
+- [Demo en producción](https://mesora-sistema.vercel.app)
+- [Manual de usuario](https://github.com/Benchi2312/Mesora/blob/main/docs/MANUAL_USUARIO_V1.md)
+- [Documentación del proyecto](https://github.com/Benchi2312/Mesora/tree/main/docs)
 
-- [Frontend](https://github.com/Benchi2312/SmartParking-Frontend) · [Demo web](https://smart-parking-frontend-three.vercel.app)
-- [Backend API](https://github.com/Benchi2312/SmartParking-Backend)
+## Actualmente aprendiendo
 
-## Tecnologías
+Profundizando en desarrollo backend con Spring Boot y en el trabajo con bases de datos PostgreSQL.
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
-</p>
+## Otros proyectos
 
----
-
-Gracias por visitar mi perfil.
+- [ControlPack](https://github.com/Benchi2312/controlpack-frontend): sistema de gestión de producción y empaque industrial, con interfaz en React y API REST en Flask. [Demo](https://controlpack-frontend.vercel.app) · [Backend](https://github.com/Benchi2312/controlpack-backend)
+- [SmartParking](https://github.com/Benchi2312/SmartParking-Frontend): sistema de estacionamientos con gestión de usuarios, vehículos, espacios y reservas. [Demo](https://smart-parking-frontend-three.vercel.app) · [Backend](https://github.com/Benchi2312/SmartParking-Backend)
