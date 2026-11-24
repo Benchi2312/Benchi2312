@@ -74,7 +74,7 @@
     <tr>
       <td>
         <strong><a href="https://github.com/Benchi2312/dadtvplay-pilot">DadTvPlay · piloto</a></strong><br>
-        Agente de atención por WhatsApp con API en FastAPI y clasificación de intención mediante scikit-learn; integra Supabase para datos y estado de conversación.<br>
+        Agente de atención por WhatsApp con API en FastAPI y clasificación de intención mediante machine learning (scikit-learn); integra Supabase para datos y estado de conversación.<br>
         <sub><a href="https://github.com/Benchi2312/dadtvplay-pilot">Repositorio</a></sub>
       </td>
     </tr>
