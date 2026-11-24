@@ -43,13 +43,10 @@
 
 **Arquitectura y capacidades**
 
-- Aislamiento multi-restaurante aplicado en PostgreSQL mediante **Row Level Security (RLS)**.
-- **Supabase Auth** y permisos definidos por roles para administración, meseros, caja y estaciones de preparación.
-- Gestión de mesas, pedidos y comandas; flujos separados para Cocina y Barra.
-- Caja por turnos, cobros, arqueo y cierre; reportes con filtros y exportación CSV.
-- Auditoría de acciones sensibles y soporte entre restaurantes.
-- Impresión manual desde el navegador e impresión automática opcional mediante agente local para Windows.
-- Verificaciones automatizadas para TypeScript, build, SQL y flujos de navegador/responsive con **Playwright**.
+- **Seguridad y arquitectura:** aislamiento multi-restaurante mediante RLS en PostgreSQL, Supabase Auth y permisos por roles.
+- **Operación:** mesas, pedidos, comandas, flujos de Cocina y Barra, caja por turnos, reportes CSV y soporte entre restaurantes.
+- **Trazabilidad y calidad:** auditoría de acciones sensibles; verificaciones automatizadas de TypeScript, build, SQL y flujos de navegador/responsive con Playwright.
+- **Impresión:** desde el navegador y, de forma opcional, mediante un agente local para Windows.
 
 **Enlaces:** [Repositorio](https://github.com/Benchi2312/Mesora) · [Producción](https://mesora-sistema.vercel.app) · [Demo interactivo](https://mesora-sistema.vercel.app/demo) · [Documentación](https://github.com/Benchi2312/Mesora/tree/main/docs) · [Manual de usuario](https://github.com/Benchi2312/Mesora/blob/main/docs/MANUAL_USUARIO_V1.md)
 
@@ -90,4 +87,4 @@
 
 ## Contacto
 
-[GitHub](https://github.com/Benchi2312) · [LinkedIn](https://pe.linkedin.com/in/benjamin-correa-acosta-a4412a409) · Lima, Perú
+[GitHub](https://github.com/Benchi2312) · [LinkedIn](https://pe.linkedin.com/in/benjamin-correa-acosta-a4412a409)
