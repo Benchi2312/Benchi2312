@@ -17,7 +17,7 @@
   <g transform="translate(1110 70)">
     <circle cx="118" cy="108" r="97" fill="#111a27" stroke="#34445d" stroke-width="1.5"/>
     <circle cx="118" cy="108" r="76" fill="none" stroke="#388bfd" stroke-width="1.5" stroke-dasharray="3 8" opacity=".8"/>
-    <path d="M81 152V65h15l22 31 22-31h15v87h-18v-57l-19 27-19-27v57z" fill="url(#accent)"/>
+    <text x="118" y="137" text-anchor="middle" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-8">BC</text>
     <circle cx="214" cy="38" r="5" fill="#79c0ff"/>
     <circle cx="28" cy="168" r="4" fill="#58a6ff"/>
     <path d="M22 38h28M36 24v28M208 182h34M225 165v34" stroke="#52637b" stroke-width="2" opacity=".8"/>
